@@ -14,7 +14,7 @@ def zoo():
 
 
 def bar(a, b):
-    time.sleep(1)
+    time.sleep(2)
 
 
 def main():
